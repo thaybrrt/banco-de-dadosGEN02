@@ -1,0 +1,1 @@
+   FOREIGN KEY (id_categoria) REFERENCES tb_categorias(id_categoria)
